@@ -20,7 +20,7 @@ Independent and educational — not endorsed by Dr Louks or any institution.
 Clone this repository and run locally to play.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/olfactory-ethics-quiz.git
+git clone https://github.com/wiqilee/olfactory-ethics-quiz.git
 cd olfactory-ethics-quiz
 npm install
 npm run dev
